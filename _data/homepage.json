@@ -1,0 +1,11 @@
+{
+    "title": "Greener Shelter",
+    "subtitle": "Greener Shelter",
+    "menu": [
+ 
+        {
+            "title": "Our Latest Content",
+            "post_list": "post"
+        }
+    ]
+}

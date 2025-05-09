@@ -1,0 +1,10 @@
+{
+    "cleanUrls": true,
+    "redirects": [
+      {
+        "source": "/articles/13",
+        "destination": "/posts/foundation-engineering",
+        "permanent": true
+      }
+    ]
+  } 

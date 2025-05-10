@@ -4,6 +4,7 @@ date: 2025-03-01
 image: "/media/can-you-still-make-money-online-building-a-guru-business.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![Can You Still Make Money Online Building A Guru Business?](/media/can-you-still-make-money-online-building-a-guru-business.jpg)

@@ -9,6 +9,24 @@ module.exports = function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toFormat("MM-dd-yyyy");
     });     
 
+    // Create a tags collection
+    eleventyConfig.addCollection("tagList", function(collection) {
+        let tagSet = new Set();
+        collection.getAll().forEach(item => {
+            if ("tags" in item.data) {
+                let tags = item.data.tags;
+                if (typeof tags === "string") {
+                    tags = [tags];
+                }
+                for (const tag of tags) {
+                    tagSet.add(tag);
+                }
+            }
+        });
+        // Filter out "post" tag which is used to identify all posts
+        return [...tagSet].filter(tag => tag !== "post").sort();
+    });
+
     let markdownOptions = {
         html: true,
         breaks: true,
@@ -21,5 +39,4 @@ module.exports = function(eleventyConfig) {
     markdownLib.renderer.rules.table_close = () => '</table>\n</div>',
 
     eleventyConfig.setLibrary("md", markdownLib);
-
 };

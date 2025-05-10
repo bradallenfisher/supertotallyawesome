@@ -4,6 +4,7 @@ date: 2025-01-15
 image: "/media/what-is-the-most-legit-way-to-make-money-online.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![What Is the Most Legit Way to Make Money Online?](/media/what-is-the-most-legit-way-to-make-money-online.jpg)

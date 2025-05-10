@@ -4,6 +4,7 @@ date: 2024-12-05
 image: "/media/how-do-internet-gurus-make-money-online.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![How Do Internet Gurus Make Money Online?](/media/how-do-internet-gurus-make-money-online.jpg)

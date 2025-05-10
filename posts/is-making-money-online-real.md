@@ -4,6 +4,7 @@ date: 2024-11-08
 image: "/media/is-making-money-online-real.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![Is Making Money Online Real?](/media/is-making-money-online-real.jpg)

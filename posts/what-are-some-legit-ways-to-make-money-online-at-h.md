@@ -4,6 +4,7 @@ date: 2024-12-20
 image: "/media/what-are-some-legit-ways-to-make-money-online-at-home.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![What Are Some Legit Ways to Make Money Online at Home?](/media/what-are-some-legit-ways-to-make-money-online-at-home.jpg)

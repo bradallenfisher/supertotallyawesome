@@ -4,6 +4,7 @@ date: 2025-01-01
 image: "/media/can-you-actually-make-money-from-online-courses.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![Can You Actually Make Money From Online Courses?](/media/can-you-actually-make-money-from-online-courses.jpg)

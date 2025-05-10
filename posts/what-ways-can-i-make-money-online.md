@@ -4,6 +4,7 @@ date: 2025-04-15
 image: "/media/what-ways-can-i-make-money-online.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![What Ways Can I Make Money Online?](/media/what-ways-can-i-make-money-online.jpg)

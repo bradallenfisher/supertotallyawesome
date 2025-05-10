@@ -4,6 +4,7 @@ date: 2024-11-21
 image: "/media/what-are-the-most-effective-ways-to-make-money-online.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![What Are the Most Effective Ways to Make Money Online?](/media/what-are-the-most-effective-ways-to-make-money-online.jpg)

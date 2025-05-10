@@ -4,6 +4,7 @@ date: 2024-12-16
 image: "/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![Maybe You Want to Send People to A 'squeeze Page Funnel' to Get Their Email Address in Exchange for A Free Pdf?](/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.jpg)

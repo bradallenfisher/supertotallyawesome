@@ -4,6 +4,7 @@ date: 2025-02-28
 image: "/media/how-to-know-if-an-online-course-is-legit.jpg"
 tags:
   - post
+  - Marketing Gurus
 ---
 
 ![How to Know If an Online Course Is Legit?](/media/how-to-know-if-an-online-course-is-legit.jpg)

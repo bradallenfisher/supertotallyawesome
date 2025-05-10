@@ -4,6 +4,7 @@ date: 2025-01-16
 image: "/media/what-are-some-options-for-making-money-online.jpg"
 tags:
   - post
+  - Entrepreneurship
 ---
 
 ![What Are Some Options for Making Money Online?](/media/what-are-some-options-for-making-money-online.jpg)

@@ -4,6 +4,7 @@ date: 2024-10-22
 image: "/media/what-is-the-easiest-and-most-profitable-way-to-make-money-online.jpg"
 tags:
   - post
+  - Online Business
 ---
 
 ![What Is the Easiest and Most Profitable Way to Make Money Online?](/media/what-is-the-easiest-and-most-profitable-way-to-make-money-online.jpg)

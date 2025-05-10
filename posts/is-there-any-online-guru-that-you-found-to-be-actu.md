@@ -4,6 +4,7 @@ date: 2024-12-13
 image: "/media/is-there-any-online-guru-that-you-found-to-be-actually-good.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![Is There Any "online Guru" That You Found to Be Actually Good?](/media/is-there-any-online-guru-that-you-found-to-be-actually-good.jpg)

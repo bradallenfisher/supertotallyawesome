@@ -4,6 +4,7 @@ date: 2025-01-29
 image: "/media/is-make-money-online-real.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![Is Make Money Online Real?](/media/is-make-money-online-real.jpg)

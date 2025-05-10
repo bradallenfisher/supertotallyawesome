@@ -4,6 +4,7 @@ date: 2025-03-19
 image: "/media/why-is-youtube-flooded-with-so-many-make-money-online-gurus.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![Why Is Youtube Flooded with So Many "make Money Online" Gurus?](/media/why-is-youtube-flooded-with-so-many-make-money-online-gurus.jpg)

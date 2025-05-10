@@ -4,6 +4,7 @@ date: 2024-12-15
 image: "/media/which-is-the-most-interesting-way-to-make-money-online.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![Which Is the Most Interesting Way to Make Money Online?](/media/which-is-the-most-interesting-way-to-make-money-online.jpg)

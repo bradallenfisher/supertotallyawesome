@@ -4,6 +4,7 @@ date: 2025-01-16
 image: "/media/do-the-tactics-of-online-gurus-still-work.webp"
 tags:
   - post
+  - Entrepreneurship
 ---
 
 ![Do the tatics of Gurus Still Work in 2025?](/media/do-the-tactics-of-online-gurus-still-work.webp)

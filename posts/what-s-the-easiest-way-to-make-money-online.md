@@ -4,6 +4,7 @@ date: 2025-03-20
 image: "/media/what-s-the-easiest-way-to-make-money-online.jpg"
 tags:
   - post
+  - Entrepreneurship
 ---
 
 ![What's the Easiest Way to Make Money Online?](/media/what-s-the-easiest-way-to-make-money-online.jpg)

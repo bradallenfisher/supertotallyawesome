@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/the-truth-about-make-money-online-gurus-what-you-need-to-know.webp"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![The Truth About Make Money Online Gurus: What You Need to Know](/media/the-truth-about-make-money-online-gurus-what-you-need-to-know.webp)

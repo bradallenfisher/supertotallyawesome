@@ -4,6 +4,7 @@ date: 2024-10-23
 image: "/media/what-about-the-claims-online-marketing-gurus-make.jpg"
 tags:
   - post
+  - Entrepreneurship
 ---
 
 ![What About the Claims Online Marketing Gurus Make?](/media/what-about-the-claims-online-marketing-gurus-make.jpg)

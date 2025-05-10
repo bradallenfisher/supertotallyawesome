@@ -4,6 +4,7 @@ date: 2025-04-10
 image: "/media/genuine-platforms-for-making-money-online.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![Genuine Platforms for Making Money Online](/media/genuine-platforms-for-making-money-online.jpg)

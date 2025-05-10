@@ -4,6 +4,7 @@ date: 2024-10-24
 image: "/media/which-are-the-most-effective-ways-of-making-money-online.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![Which Are the Most Effective Ways of Making Money Online?](/media/which-are-the-most-effective-ways-of-making-money-online.jpg)

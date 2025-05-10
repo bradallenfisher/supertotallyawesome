@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/how-can-i-earn-money-online-in-2025.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![How Can I Earn Money Online in 2025?](/media/how-can-i-earn-money-online-in-2025.jpg)

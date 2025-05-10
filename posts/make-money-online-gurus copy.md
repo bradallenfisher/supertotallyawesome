@@ -4,6 +4,7 @@ date: 2025-03-08
 image: "/media/make-money-online-gurus-what-you-need-to-know.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![Make Money Online Gurus: What You Need to Know](/media/make-money-online-gurus-what-you-need-to-know.jpg)

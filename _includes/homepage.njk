@@ -10,6 +10,16 @@ layout: base.njk
     {% endif %}
 </header>
 
+<div class="tag-menu">
+    <h2>Topics</h2>
+    <div class="tag-cloud">
+        {% for tag in collections.tagList %}
+            {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+            <a href="{{ tagUrl }}" class="tag-link">{{ tag }}</a>
+        {% endfor %}
+    </div>
+</div>
+
 <main>
     <div class="post-grid">
     {%- for post in collections.post | reverse -%}
@@ -23,6 +33,16 @@ layout: base.njk
             <time datetime="{{ post.date | formatDate }}">
                 {{ post.date | formatDate }}
             </time>
+            {% if post.data.tags %}
+                <div class="card-tags">
+                    {% for tag in post.data.tags %}
+                        {% if tag != "post" %}
+                            {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                            <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
         </article>
     {%- endfor -%}
     </div>

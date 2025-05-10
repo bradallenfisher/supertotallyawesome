@@ -4,6 +4,7 @@ date: 2024-11-08
 image: "/media/what-is-the-real-secret-to-making-money-online.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![What Is the Real Secret to Making Money Online?](/media/what-is-the-real-secret-to-making-money-online.jpg)

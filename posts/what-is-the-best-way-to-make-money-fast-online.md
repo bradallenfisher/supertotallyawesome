@@ -4,6 +4,7 @@ date: 2024-11-09
 image: "/media/what-is-the-best-way-to-make-money-fast-online.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![What Is the Best Way to Make Money Fast Online?](/media/what-is-the-best-way-to-make-money-fast-online.jpg)

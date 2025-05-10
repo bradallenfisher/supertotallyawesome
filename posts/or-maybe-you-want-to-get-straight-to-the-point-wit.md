@@ -4,6 +4,7 @@ date: 2024-12-30
 image: "/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![Or Maybe You Want to Get Straight to the Point with A 'tripwire Funnel'?](/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.jpg)

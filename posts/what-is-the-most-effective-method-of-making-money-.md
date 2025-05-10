@@ -4,6 +4,7 @@ date: 2024-12-19
 image: "/media/what-is-the-most-effective-method-of-making-money-online.jpg"
 tags:
   - post
+  - Online Business
 ---
 
 ![What Is the Most Effective Method of Making Money Online?](/media/what-is-the-most-effective-method-of-making-money-online.jpg)

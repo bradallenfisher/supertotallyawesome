@@ -4,6 +4,7 @@ date: 2024-11-19
 image: "/media/which-gurus-have-the-most-effective-way-to-make-money-online.jpg"
 tags:
   - post
+  - Passive Income
 ---
 
 ![Which Gurus Have the Most Effective Way to Make Money Online?](/media/which-gurus-have-the-most-effective-way-to-make-money-online.jpg)

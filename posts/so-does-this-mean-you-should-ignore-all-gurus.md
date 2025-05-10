@@ -4,6 +4,7 @@ date: 2025-01-25
 image: "/media/so-does-this-mean-you-should-ignore-all-gurus.jpg"
 tags:
   - post
+  - Entrepreneurship
 ---
 
 ![So, Does This Mean You Should Ignore All Gurus?](/media/so-does-this-mean-you-should-ignore-all-gurus.jpg)

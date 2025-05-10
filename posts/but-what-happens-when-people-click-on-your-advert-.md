@@ -4,6 +4,7 @@ date: 2024-12-06
 image: "/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.jpg"
 tags:
   - post
+  - Digital Marketing
 ---
 
 ![But What Happens When People Click on Your Advert to Find Out More?](/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.jpg)

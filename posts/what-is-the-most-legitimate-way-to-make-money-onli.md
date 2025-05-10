@@ -4,6 +4,7 @@ date: 2024-10-24
 image: "/media/what-is-the-most-legitimate-way-to-make-money-online.jpg"
 tags:
   - post
+  - Make Money Online
 ---
 
 ![What Is the Most Legitimate Way to Make Money Online?](/media/what-is-the-most-legitimate-way-to-make-money-online.jpg)

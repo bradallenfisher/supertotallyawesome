@@ -4,6 +4,7 @@ date: 2025-05-02
 image: "/media/are-there-any-legit-gurus.jpg"
 tags:
   - post
+  - Marketing Gurus
 ---
 
 ![Are There Any Legit Gurus?](/media/are-there-any-legit-gurus.jpg)

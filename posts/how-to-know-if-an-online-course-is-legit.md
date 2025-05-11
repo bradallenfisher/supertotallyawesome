@@ -1,13 +1,13 @@
 ---
 title: "How to Know If an Online Course Is Legit?"
 date: 2025-02-28
-image: "/media/how-to-know-if-an-online-course-is-legit.jpg"
+image: "/media/how-to-know-if-an-online-course-is-legit.webp"
 tags:
   - post
   - Marketing Gurus
 ---
 
-![How to Know If an Online Course Is Legit?](/media/how-to-know-if-an-online-course-is-legit.jpg)
+![How to Know If an Online Course Is Legit?](/media/how-to-know-if-an-online-course-is-legit.webp)
 
 With the rapid growth of online learning, it’s essential to discern whether an online course is legitimate before committing your time and money. Many courses promise quick skills, certifications, or income but lack credibility or quality. Here’s how to **know if an online course is legit** and worth your investment.
 

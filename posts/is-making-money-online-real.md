@@ -1,13 +1,13 @@
 ---
 title: "Is Making Money Online Real?"
 date: 2024-11-08
-image: "/media/is-making-money-online-real.jpg"
+image: "/media/is-making-money-online-real.webp"
 tags:
   - post
   - Make Money Online
 ---
 
-![Is Making Money Online Real?](/media/is-making-money-online-real.jpg)
+![Is Making Money Online Real?](/media/is-making-money-online-real.webp)
 
 The idea of **making money online** has attracted millions of people worldwide, raising a common question: *Is making money online real?* The simple answer is **yes**, but it comes with important caveats and considerations.
 

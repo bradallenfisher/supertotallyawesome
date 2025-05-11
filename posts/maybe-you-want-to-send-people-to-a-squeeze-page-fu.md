@@ -1,13 +1,13 @@
 ---
 title: "Maybe You Want to Send People to A 'squeeze Page Funnel' to Get Their Email Address in Exchange for A Free Pdf?"
 date: 2024-12-16
-image: "/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.jpg"
+image: "/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![Maybe You Want to Send People to A 'squeeze Page Funnel' to Get Their Email Address in Exchange for A Free Pdf?](/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.jpg)
+![Maybe You Want to Send People to A 'squeeze Page Funnel' to Get Their Email Address in Exchange for A Free Pdf?](/media/maybe-you-want-to-send-people-to-a-squeeze-page-funnel-to-get-their-email-address-in-exchange-for-a-free-pdf.webp)
 
 Using a **squeeze page funnel** to collect email addresses by offering a free PDF is a proven and effective marketing strategy. This method helps build your email list, nurtures leads, and ultimately increases conversions for your business or project. But how exactly does it work and why is it so popular?
 

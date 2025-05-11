@@ -1,13 +1,13 @@
 ---
 title: "If They Were So Good at What They Do, Why Aren’t They Doing It Themselves and Getting Rich Instead of Flooding the Market with Competition They Created?"
 date: 2025-02-10
-image: "/media/if-they-were-so-good-at-what-they-do-why-aren-t-they-doing-it-themselves-and-getting-rich-instead-of-flooding-the-market-with-competition-they-created.jpg"
+image: "/media/if-they-were-so-good-at-what-they-do-why-aren-t-they-doing-it-themselves-and-getting-rich-instead-of-flooding-the-market-with-competition-they-created.webp"
 tags:
   - post
   - Marketing Gurus
 ---
 
-![If They Were So Good at What They Do, Why Aren’t They Doing It Themselves and Getting Rich Instead of Flooding the Market with Competition They Created?](/media/if-they-were-so-good-at-what-they-do-why-aren-t-they-doing-it-themselves-and-getting-rich-instead-of-flooding-the-market-with-competition-they-created.jpg)
+![If They Were So Good at What They Do, Why Aren’t They Doing It Themselves and Getting Rich Instead of Flooding the Market with Competition They Created?](/media/if-they-were-so-good-at-what-they-do-why-aren-t-they-doing-it-themselves-and-getting-rich-instead-of-flooding-the-market-with-competition-they-created.webp)
 
 This question is often asked when it comes to *online gurus, business coaches*, and self-proclaimed experts who offer courses, mentorships, and advice. If these individuals are truly as skilled as they claim, why don’t they focus solely on building their own wealth rather than encouraging others to dive into the same market, effectively creating more competition? Let’s break down this phenomenon and understand the dynamics behind it.
 

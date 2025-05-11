@@ -1,13 +1,13 @@
 ---
 title: "What's the Best Site for Finding Freelance Digital Marketers?"
 date: 2025-05-09
-image: "/media/what-s-the-best-site-for-finding-freelance-digital-marketers.jpg"
+image: "/media/what-s-the-best-site-for-finding-freelance-digital-marketers.webp"
 tags:
   - post
   - Passive Income
 ---
 
-![What's the Best Site for Finding Freelance Digital Marketers?](/media/what-s-the-best-site-for-finding-freelance-digital-marketers.jpg)
+![What's the Best Site for Finding Freelance Digital Marketers?](/media/what-s-the-best-site-for-finding-freelance-digital-marketers.webp)
 
 Finding the right freelance digital marketer can be a game-changer for your business, whether you need help with SEO, social media management, content marketing, or paid advertising. With the explosion of freelance platforms, it’s important to know which sites offer the best talent, reliability, and value.
 

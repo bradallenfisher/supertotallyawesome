@@ -1,13 +1,13 @@
 ---
 title: "What Ways Can I Make Money Online?"
 date: 2025-04-15
-image: "/media/what-ways-can-i-make-money-online.jpg"
+image: "/media/what-ways-can-i-make-money-online.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![What Ways Can I Make Money Online?](/media/what-ways-can-i-make-money-online.jpg)
+![What Ways Can I Make Money Online?](/media/what-ways-can-i-make-money-online.webp)
 
 In today’s digital world, **making money online** has become more accessible than ever. Whether you want to supplement your income or build a full-time career, there are numerous ways to earn money through the internet. Here’s a comprehensive overview of the most effective methods to make money online.
 

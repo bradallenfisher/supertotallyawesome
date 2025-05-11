@@ -1,13 +1,13 @@
 ---
 title: "So, Does This Mean You Should Ignore All Gurus?"
 date: 2025-01-25
-image: "/media/so-does-this-mean-you-should-ignore-all-gurus.jpg"
+image: "/media/so-does-this-mean-you-should-ignore-all-gurus.webp"
 tags:
   - post
   - Entrepreneurship
 ---
 
-![So, Does This Mean You Should Ignore All Gurus?](/media/so-does-this-mean-you-should-ignore-all-gurus.jpg)
+![So, Does This Mean You Should Ignore All Gurus?](/media/so-does-this-mean-you-should-ignore-all-gurus.webp)
 
 In today’s digital age, the internet is flooded with self-proclaimed "gurus" promising quick success, especially in areas like making money online, personal development, and entrepreneurship. But does their ubiquity mean you should ignore all gurus outright? The answer is **no**, but with important caveats.
 

@@ -1,13 +1,13 @@
 ---
 title: "Can You Actually Make Money From Online Courses?"
 date: 2025-01-01
-image: "/media/can-you-actually-make-money-from-online-courses.jpg"
+image: "/media/can-you-actually-make-money-from-online-courses.webp"
 tags:
   - post
   - Passive Income
 ---
 
-![Can You Actually Make Money From Online Courses?](/media/can-you-actually-make-money-from-online-courses.jpg)
+![Can You Actually Make Money From Online Courses?](/media/can-you-actually-make-money-from-online-courses.webp)
 
 The question of whether you can actually make money from online courses is a common one, especially as the e-learning industry continues to boom. The short answer is: **yes, it is entirely possible to generate real income from online courses**. However, the success and profitability depend on several critical factors.
 

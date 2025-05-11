@@ -1,13 +1,13 @@
 ---
 title: "Genuine Platforms for Making Money Online"
 date: 2025-04-10
-image: "/media/genuine-platforms-for-making-money-online.jpg"
+image: "/media/genuine-platforms-for-making-money-online.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![Genuine Platforms for Making Money Online](/media/genuine-platforms-for-making-money-online.jpg)
+![Genuine Platforms for Making Money Online](/media/genuine-platforms-for-making-money-online.webp)
 
 In today’s digital age, making money online has become more accessible than ever. However, distinguishing **genuine platforms** from scams or unreliable sites is crucial to building a sustainable income. Here’s a comprehensive overview of legitimate online money-making options that anyone can explore.
 

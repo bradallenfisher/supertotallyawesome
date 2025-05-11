@@ -1,13 +1,13 @@
 ---
 title: "Is Make Money Online Real?"
 date: 2025-01-29
-image: "/media/is-make-money-online-real.jpg"
+image: "/media/is-make-money-online-real.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![Is Make Money Online Real?](/media/is-make-money-online-real.jpg)
+![Is Make Money Online Real?](/media/is-make-money-online-real.webp)
 
 The question **"Is make money online real?"** is one many people ask as the internet offers countless opportunities to generate income from home. The simple answer is **yes**, making money online is real, but it requires **careful evaluation**, effort, and awareness of potential scams.
 

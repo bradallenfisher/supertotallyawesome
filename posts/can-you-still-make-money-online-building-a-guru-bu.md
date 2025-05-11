@@ -1,13 +1,13 @@
 ---
 title: "Can You Still Make Money Online Building A Guru Business?"
 date: 2025-03-01
-image: "/media/can-you-still-make-money-online-building-a-guru-business.jpg"
+image: "/media/can-you-still-make-money-online-building-a-guru-business.webp"
 tags:
   - post
   - Passive Income
 ---
 
-![Can You Still Make Money Online Building A Guru Business?](/media/can-you-still-make-money-online-building-a-guru-business.jpg)
+![Can You Still Make Money Online Building A Guru Business?](/media/can-you-still-make-money-online-building-a-guru-business.webp)
 
 In today's saturated digital marketplace, the question arises: **Can you still make money online building a guru business?** The short answer is *yes*, but it requires strategy, authenticity, and a clear differentiation from countless others claiming guru status.
 

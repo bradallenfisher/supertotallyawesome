@@ -1,13 +1,13 @@
 ---
 title: "And Why Are There So Many of Them, All Making the Same Claims, All Using the Same Sales Tactics, and All Charging the Same Prices?"
 date: 2024-10-26
-image: "/media/and-why-are-there-so-many-of-them-all-making-the-same-claims-all-using-the-same-sales-tactics-and-all-charging-the-same-prices.jpg"
+image: "/media/and-why-are-there-so-many-of-them-all-making-the-same-claims-all-using-the-same-sales-tactics-and-all-charging-the-same-prices.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![And Why Are There So Many of Them, All Making the Same Claims, All Using the Same Sales Tactics, and All Charging the Same Prices?](/media/and-why-are-there-so-many-of-them-all-making-the-same-claims-all-using-the-same-sales-tactics-and-all-charging-the-same-prices.jpg)
+![And Why Are There So Many of Them, All Making the Same Claims, All Using the Same Sales Tactics, and All Charging the Same Prices?](/media/and-why-are-there-so-many-of-them-all-making-the-same-claims-all-using-the-same-sales-tactics-and-all-charging-the-same-prices.webp)
 
 The internet is flooded with countless **make money online gurus**, coaches, and courses, all promising to deliver life-changing results. Despite the abundance of options, they often share striking similarities: identical claims of quick wealth, repetitive sales tactics, and surprisingly uniform pricing. But why is this the case?
 

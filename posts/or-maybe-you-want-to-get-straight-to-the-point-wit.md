@@ -1,13 +1,13 @@
 ---
 title: "Or Maybe You Want to Get Straight to the Point with A tripwire Funnel?"
 date: 2024-12-30
-image: "/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.jpg"
+image: "/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![Or Maybe You Want to Get Straight to the Point with A 'tripwire Funnel'?](/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.jpg)
+![Or Maybe You Want to Get Straight to the Point with A 'tripwire Funnel'?](/media/or-maybe-you-want-to-get-straight-to-the-point-with-a-tripwire-funnel.webp)
 
 If you're looking to boost online sales quickly while building trust with potential customers, a **tripwire funnel** can be an incredibly effective strategy. But what exactly is a tripwire funnel, and how can it help you get straight to the point and maximize conversions?
 

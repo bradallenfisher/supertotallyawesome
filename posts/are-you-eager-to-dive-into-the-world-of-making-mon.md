@@ -1,13 +1,13 @@
 ---
 title: "Are You Eager to Dive Into the World of Making Money Online?"
 date: 2024-11-10
-image: "/media/are-you-eager-to-dive-into-the-world-of-making-money-online.jpg"
+image: "/media/are-you-eager-to-dive-into-the-world-of-making-money-online.webp"
 tags:
   - post
   - Entrepreneurship
 ---
 
-![Are You Eager to Dive Into the World of Making Money Online?](/media/are-you-eager-to-dive-into-the-world-of-making-money-online.jpg)
+![Are You Eager to Dive Into the World of Making Money Online?](/media/are-you-eager-to-dive-into-the-world-of-making-money-online.webp)
 
 The world of **making money online** is vast, promising, and accessible to anyone willing to learn and put in the effort. Whether you're looking for a side hustle, a full-time career, or just a way to earn passive income, the internet offers numerous opportunities suited for all skill levels.
 

@@ -1,13 +1,13 @@
 ---
 title: "But What Happens When People Click on Your Advert to Find Out More?"
 date: 2024-12-06
-image: "/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.jpg"
+image: "/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.webp"
 tags:
   - post
   - Digital Marketing
 ---
 
-![But What Happens When People Click on Your Advert to Find Out More?](/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.jpg)
+![But What Happens When People Click on Your Advert to Find Out More?](/media/but-what-happens-when-people-click-on-your-advert-to-find-out-more.webp)
 
 When someone clicks on your advert, the journey they embark on is crucial for turning interest into action. This moment is your opportunity to capture their attention, build trust, and ultimately guide them toward your desired outcome—whether that’s making a purchase, signing up for a newsletter, or engaging with your brand further.
 

@@ -1,13 +1,13 @@
 ---
 title: "Are There Any Legit Gurus?"
 date: 2025-05-02
-image: "/media/are-there-any-legit-gurus.jpg"
+image: "/media/are-there-any-legit-gurus.webp"
 tags:
   - post
   - Marketing Gurus
 ---
 
-![Are There Any Legit Gurus?](/media/are-there-any-legit-gurus.jpg)
+![Are There Any Legit Gurus?](/media/are-there-any-legit-gurus.webp)
 
 In today's digital age, the term **"guru"** is often associated with experts who claim to provide valuable guidance in various fields such as finance, personal development, entrepreneurship, and online marketing. But the question remains: **Are there any legit gurus?**
 

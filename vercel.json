@@ -2,18 +2,18 @@
     "cleanUrls": true,
     "redirects": [
       {
-        "source": "/episode-143-holiday-extravaganza/episode_143/",
+        "source": "/episode-143-holiday-extravaganza/episode_143",
         "destination": "/posts/holiday-ideas/",
         "permanent": true
       },
       {
-        "source": "/category/the-f-list-bad-movie-podcast/",
-        "destination": "/posts/bad-podcasts-good-marketing/",
+        "source": "/category/the-f-list-bad-movie-podcast",
+        "destination": "/posts/bad-podcasts-good-marketing",
         "permanent": true
       },
       {
-        "source": "/thegamecollection/",
-        "destination": "/posts/the-game-collection/",
+        "source": "/thegamecollection",
+        "destination": "/posts/the-game-collection",
         "permanent": true
       }
     ]

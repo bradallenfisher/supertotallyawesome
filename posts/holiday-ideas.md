@@ -57,7 +57,18 @@ Whip up a PDF in Google Docs, export as a fancy eBook, and sell it on [Gumroad](
 
 > Title idea: *Cookies, Cocoa & Cashflow: A Holiday Baking Side Hustle Guide*
 
+## Intermission: 7 Absolutely Awful Gift Ideas (Please, No)
 
+Before you go spreading holiday cheer, let’s take a moment to remember: not all gifts are created equal.  
+Here are 7 legendary misfires you should *not* sell, give, or receive unless you want to be remembered… for all the wrong reasons:
+
+1. **A personalized diet plan** – Nothing says “Happy Holidays” like a passive-aggressive body critique.
+2. **Socks with your own face on them** – Bold. Terrifying. Unforgettable. But mostly terrifying.
+3. **A DVD box set of a show that’s still streaming** – A modern twist on useless media.
+4. **Expired holiday candles from last year** – Smells like cinnamon… and neglect.
+5. **A "live, laugh, love" sign** – For when you truly gave up trying.
+6. **A DIY taxidermy kit** – Fun for no one. Especially not the raccoon.
+7. **An NFT of a snowflake** – It’s unique. It’s worthless. It’s... winter Web3.
 
 ## 6. Start a “Holiday Hustles” Podcast or YouTube Channel
 

@@ -15,6 +15,86 @@
         "source": "/thegamecollection(/)?",
         "destination": "/posts/the-game-collection/",
         "permanent": true
+      },
+      {
+        "source": "/category/two-guys-one-screen/feed(/)?",
+        "destination": "/posts/feed",
+        "permanent": true
+      },
+      {
+        "source": "/titanfall(/)?",
+        "destination": "/posts/titanfall",
+        "permanent": true
+      },
+      {
+        "source": "/episode-134-packed-at-pax(/)?",
+        "destination": "/posts/episode-134-packed-at-pax",
+        "permanent": true
+      },
+      {
+        "source": "/non-90s-post-an-f-troop-spec-script(/)?",
+        "destination": "/posts/non-90s-post-an-f-troop-spec-script",
+        "permanent": true
+      },
+      {
+        "source": "/episode-120-the-lord-of-the-rings-chess-set/important(/)?",
+        "destination": "/posts/important",
+        "permanent": true
+      },
+      {
+        "source": "/episode-83-looming-owl-paraphernalia(/)?",
+        "destination": "/posts/episode-83-looming-owl-paraphernalia",
+        "permanent": true
+      },
+      {
+        "source": "/episode-22-the-hellcats(/)?",
+        "destination": "/posts/episode-22-the-hellcats",
+        "permanent": true
+      },
+      {
+        "source": "/existentialparachutepants(/)?",
+        "destination": "/posts/existentialparachutepants",
+        "permanent": true
+      },
+      {
+        "source": "/back-on-the-redd-planet-episode-8-the-great-outer-doors(/)?",
+        "destination": "/posts/back-on-the-redd-planet-episode-8-the-great-outer-doors",
+        "permanent": true
+      },
+      {
+        "source": "/category/gizmonic-institutes-radio(/)?",
+        "destination": "/posts/gizmonic-institutes-radio",
+        "permanent": true
+      },
+      {
+        "source": "/its-feldman-from-across-the-hall(/)?",
+        "destination": "/posts/its-feldman-from-across-the-hall",
+        "permanent": true
+      },
+      {
+        "source": "/category/video-games-2/feed(/)?",
+        "destination": "/posts/feed",
+        "permanent": true
+      },
+      {
+        "source": "/category/video-games-2(/)?",
+        "destination": "/posts/video-games-2",
+        "permanent": true
+      },
+      {
+        "source": "/gizmonicinstituteradio(/)?",
+        "destination": "/posts/gizmonicinstituteradio",
+        "permanent": true
+      },
+      {
+        "source": "/\\?p=2275",
+        "destination": "/",
+        "permanent": true
+      },
+      {
+        "source": "/excellent(/)?",
+        "destination": "/posts/excellent",
+        "permanent": true
       }
     ]
   }

@@ -4,7 +4,7 @@ date: 2025-04-20
 image: "/media/gizmonicinstituteradio.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Clever Items
 ---
 
 Basically the same as our other radio post. But maybe with more typos.

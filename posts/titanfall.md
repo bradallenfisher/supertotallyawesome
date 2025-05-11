@@ -4,7 +4,7 @@ date: 2025-05-05
 image: "/media/titanfall.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Games
 ---
 
 **Titanfall** was a first-person shooter with giant mechs. Fast-paced, futuristic, and fun.

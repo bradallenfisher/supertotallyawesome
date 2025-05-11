@@ -4,7 +4,7 @@ date: 2025-04-20
 image: "/media/video-games-2.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Games
 ---
 
 We had one page for video games. Then we made **Video Games 2**.

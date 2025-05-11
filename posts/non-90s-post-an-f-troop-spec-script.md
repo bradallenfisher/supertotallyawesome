@@ -4,7 +4,7 @@ date: 2025-05-04
 image: "/media/non-90s-post-an-f-troop-spec-script.webp"
 tags:
   - post
-  - Marketing Gurus
+  - 90s
 ---
 
 We wrote a fake spec script for **F-Troop**. It wasn’t from the '90s, but it fit our vibe.

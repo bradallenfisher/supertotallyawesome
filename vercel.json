@@ -2,8 +2,8 @@
     "cleanUrls": true,
     "redirects": [
       {
-        "source": "/articles/13",
-        "destination": "/posts/foundation-engineering",
+        "source": "/episode-143-holiday-extravaganza/episode_143/",
+        "destination": "/posts/holiday-ideas/",
         "permanent": true
       }
     ]

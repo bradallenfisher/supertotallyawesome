@@ -7,7 +7,7 @@
         "permanent": true
       },
       {
-        "source": "/category/the-f-list-bad-movie-podcast/?feed=podcast",
+        "source": "/category/the-f-list-bad-movie-podcast/",
         "destination": "/posts/bad-podcasts-good-marketing/",
         "permanent": true
       },

@@ -2,17 +2,17 @@
     "cleanUrls": true,
     "redirects": [
       {
-        "source": "/episode-143-holiday-extravaganza/episode_143:slash?",
+        "source": "/episode-143-holiday-extravaganza/episode_143(/)?",
         "destination": "/posts/holiday-ideas/",
         "permanent": true
       },
       {
-        "source": "/category/the-f-list-bad-movie-podcast:slash?",
+        "source": "/category/the-f-list-bad-movie-podcast(/)?",
         "destination": "/posts/bad-podcasts-good-marketing/",
         "permanent": true
       },
       {
-        "source": "/thegamecollection:slash?",
+        "source": "/thegamecollection(/)?",
         "destination": "/posts/the-game-collection/",
         "permanent": true
       }

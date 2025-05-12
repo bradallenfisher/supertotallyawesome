@@ -4,7 +4,7 @@ date: 2022-12-01
 image: "/media/holiday-exatravaganza.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Ideas
 ---
 
 ![Holiday Extravaganza: 9 Jolly Ideas for Making Money Online This Season](/media/holiday-exatravaganza.webp)

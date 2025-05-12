@@ -4,7 +4,7 @@ date: 2025-04-21
 image: "/media/gizmonic-institutes-radio.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Clever Items
 ---
 
 This was our tribute to **MST3K** with radio flair. Short audio episodes for fans of oddball sci-fi.

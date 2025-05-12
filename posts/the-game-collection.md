@@ -4,7 +4,7 @@ date: 2025-05-02
 image: "/media/game-collection.webp"
 tags:
   - post
-  - Marketing Gurus
+  - Games
 ---
 
 ![90s Games & How to Revive Them as a Nostalgia-Based Business](/media/game-collection.webp)

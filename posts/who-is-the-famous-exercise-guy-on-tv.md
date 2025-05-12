@@ -1,13 +1,13 @@
 ---
 title: "Who Is the Famous Exercise Guy on Tv?"
 date: 2024-12-18
-image: "/media/who-is-the-famous-exercise-guy-on-tv.webp"
+image: "/media/Richard.webp"
 tags:
   - post
   - 90s
 ---
 
-![Who Is the Famous Exercise Guy on Tv?](/media/who-is-the-famous-exercise-guy-on-tv.webp)
+![Who Is the Famous Exercise Guy on Tv?](/media/Richard.webp)
 
 When you think about the **famous exercise guy on TV**, several fitness icons come to mind. However, the most widely recognized figure often referred to as *the* exercise guy is **Richard Simmons**. Known for his exuberant personality, distinctive tank tops, and energetic workout routines, Simmons became a household name in the 1980s and 1990s by making fitness accessible and enjoyable for people of all fitness levels.
 

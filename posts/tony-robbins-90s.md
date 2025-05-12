@@ -1,13 +1,13 @@
 ---
 title: "Tony Robbins 90s: What They Are and How They Impact Your Success"
 date: 2024-11-22
-image: "/media/tony-robbins-90s-what-they-are-and-how-they-impact-your-success.webp"
+image: "/media/tonyrobbins.webp"
 tags:
   - post
   - 90s
 ---
 
-![Tony Robbins 90s: What They Are and How They Impact Your Success](/media/tony-robbins-90s-what-they-are-and-how-they-impact-your-success.webp)
+![Tony Robbins 90s: What They Are and How They Impact Your Success](/media/tonyrobbins.webp)
 
 Tony Robbins 90s refers to a powerful concept popularized by the renowned life coach and motivational speaker Tony Robbins. The "90s" framework focuses on **making significant changes and improvements in 90-day cycles**, leveraging short-term goals to create lasting long-term transformation.
 

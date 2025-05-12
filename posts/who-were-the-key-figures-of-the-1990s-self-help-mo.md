@@ -1,13 +1,13 @@
 ---
 title: "Who Were the Key Figures of the 1990s Self-help Movement?"
 date: 2025-03-26
-image: "/media/who-were-the-key-figures-of-the-1990s-self-help-movement.webp"
+image: "/media/tonyrobbins.webp"
 tags:
   - post
   - 90s
 ---
 
-![Who Were the Key Figures of the 1990s Self-help Movement?](/media/who-were-the-key-figures-of-the-1990s-self-help-movement.webp)
+![Who Were the Key Figures of the 1990s Self-help Movement?](/media/tonyrobbins.webp)
 
 The 1990s witnessed a significant surge in the self-help movement, characterized by a growing public interest in personal development, motivation, and holistic well-being. This decade helped shape modern self-help ideologies and practices, driven by several **key figures** whose teachings and writings inspired millions. Understanding who these influencers were offers insight into the foundations of contemporary self-improvement culture.
 

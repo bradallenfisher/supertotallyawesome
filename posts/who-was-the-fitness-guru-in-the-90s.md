@@ -1,13 +1,13 @@
 ---
 title: "Who Was the Fitness Guru in the 90s?"
 date: 2025-04-08
-image: "/media/who-was-the-fitness-guru-in-the-90s.webp"
+image: "/media/richard.webp"
 tags:
   - post
   - 90s
 ---
 
-![Who Was the Fitness Guru in the 90s?](/media/who-was-the-fitness-guru-in-the-90s.webp)
+![Who Was the Fitness Guru in the 90s?](/media/richard.webp)
 
 When it comes to fitness icons of the 1990s, several influential personalities shaped the way people approached health and exercise. However, the **most notable fitness guru of the 90s** was undoubtedly **Jane Fonda**.
 

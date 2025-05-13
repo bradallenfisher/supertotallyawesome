@@ -4,6 +4,9 @@ const markdownIt = require("markdown-it");
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("media");
+    
+    // Add robots.txt to passthrough
+    eleventyConfig.addPassthroughCopy("robots.txt");
 
     eleventyConfig.addFilter("formatDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toFormat("MM-dd-yyyy");

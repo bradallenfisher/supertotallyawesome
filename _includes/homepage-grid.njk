@@ -1,0 +1,95 @@
+---
+layout: base.njk
+---
+<div class="homepage-container">
+  <div class="tag-menu">
+    <h2>Topics</h2>
+    <div class="tag-cloud">
+      {% for tag in collections.tagList %}
+        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+        <a href="{{ tagUrl }}" class="tag-link">{{ tag }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <main class="magazine-grid">
+    {%- set posts = collections.post | reverse -%}
+    {%- set totalPosts = posts.length -%}
+    
+    {%- for i in range(0, totalPosts, 6) -%}
+      {# Row with 2 large posts side by side #}
+      <div class="row large-row">
+        {%- for j in range(0, 2) -%}
+          {%- set postIndex = i + j -%}
+          {%- if postIndex < totalPosts -%}
+            {%- set post = posts[postIndex] -%}
+            <article class="grid-item large-post">
+              <div class="grid-item-inner">
+                {% if post.data.image %}
+                  <a href="{{ post.url }}" class="post-image-link">
+                    <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+                  </a>
+                {% endif %}
+                <div class="post-content">
+                  <h2 class="large-title">
+                    <a href="{{ post.url }}">{{ post.data.title }}</a>
+                  </h2>
+                  <time datetime="{{ post.date | formatDate }}">
+                    {{ post.date | formatDate }}
+                  </time>
+                  {% if post.data.tags %}
+                    <div class="card-tags">
+                      {% for tag in post.data.tags %}
+                        {% if tag != "post" %}
+                          {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                          <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+                        {% endif %}
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            </article>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+
+      {# Row with 4 small posts side by side #}
+      <div class="row small-row">
+        {%- for j in range(2, 6) -%}
+          {%- set postIndex = i + j -%}
+          {%- if postIndex < totalPosts -%}
+            {%- set post = posts[postIndex] -%}
+            <article class="grid-item small-post">
+              <div class="grid-item-inner">
+                {% if post.data.image %}
+                  <a href="{{ post.url }}" class="post-image-link">
+                    <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
+                  </a>
+                {% endif %}
+                <div class="post-content">
+                  <h2>
+                    <a href="{{ post.url }}">{{ post.data.title }}</a>
+                  </h2>
+                  <time datetime="{{ post.date | formatDate }}">
+                    {{ post.date | formatDate }}
+                  </time>
+                  {% if post.data.tags %}
+                    <div class="card-tags">
+                      {% for tag in post.data.tags %}
+                        {% if tag != "post" %}
+                          {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                          <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
+                        {% endif %}
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            </article>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    {%- endfor -%}
+  </main>
+</div> 

@@ -5,9 +5,14 @@ permalink: /tags/
 ---
 <h1>Tags</h1>
 
-<ul class="tags-list">
-{% for tag in collections.tagList %}
-  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-  <li><a href="{{ tagUrl }}">{{ tag }}</a> ({{ collections[tag].length }})</li>
-{% endfor %}
-</ul> 
+<div class="tag-grid">
+  {% for tag in collections.tagList %}
+    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+    <div class="tag-card">
+      <div class="tag-card-inner">
+        <h2><a href="{{ tagUrl }}">{{ tag }}</a></h2>
+        <span class="tag-count">{{ collections[tag].length }} post{% if collections[tag].length != 1 %}s{% endif %}</span>
+      </div>
+    </div>
+  {% endfor %}
+</div> 

@@ -1,3 +1,3 @@
 ---
-layout: homepage.njk
+layout: homepage-grid.njk
 ---

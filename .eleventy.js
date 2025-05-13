@@ -9,6 +9,11 @@ module.exports = function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toFormat("MM-dd-yyyy");
     });     
 
+    // Add current year shortcode
+    eleventyConfig.addShortcode("year", () => {
+        return new Date().getFullYear();
+    });
+
     // Create a tags collection
     eleventyConfig.addCollection("tagList", function(collection) {
         let tagSet = new Set();

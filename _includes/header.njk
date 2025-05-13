@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="header-container">
+    <div class="site-logo">
+      <a href="/">{{ site.title }}</a>
+    </div>
+    
+    <nav class="site-nav">
+      <ul>
+        {% if site.navigation %}
+          {% for item in site.navigation %}
+            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+          {% endfor %}
+        {% else %}
+          <li><a href="/">Home</a></li>
+          <li><a href="/tags/">Tags</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </div>
+</header> 

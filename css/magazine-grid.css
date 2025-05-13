@@ -1,0 +1,179 @@
+/* Full-width homepage container */
+.homepage-container {
+  max-width: 1400px;
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Magazine grid layout */
+.magazine-grid {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+/* Grid rows */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+  gap: 1.5rem;
+}
+
+.large-row {
+  justify-content: space-between;
+}
+
+.small-row {
+  justify-content: space-between;
+}
+
+/* Grid item posts */
+.grid-item {
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.grid-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Large posts (2 per row) */
+.large-post {
+  width: calc(50% - 0.75rem);
+}
+
+/* Small posts (4 per row) */
+.small-post {
+  width: calc(25% - 1.125rem);
+}
+
+.large-title {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+/* Grid item inner content */
+.grid-item-inner {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Post image styling */
+.post-image-link {
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+
+.post-image-link img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.large-post .post-image-link img {
+  height: 300px;
+}
+
+.post-image-link:hover img {
+  transform: scale(1.05);
+}
+
+/* Post content styling */
+.post-content {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.grid-item h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.grid-item h2 a {
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.2s;
+}
+
+.grid-item h2 a:hover {
+  color: #000;
+}
+
+.grid-item time {
+  color: #666;
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Home page specific styles */
+.homepage-header {
+  margin: 2rem 0;
+}
+
+.homepage-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Tag menu styles for homepage */
+.homepage-container .tag-menu {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 10px;
+  background-color: #f8f8f8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .large-post {
+    width: calc(50% - 0.75rem);
+  }
+  
+  .small-post {
+    width: calc(50% - 0.75rem);
+  }
+  
+  .small-row {
+    flex-wrap: wrap;
+  }
+  
+  .post-image-link img {
+    height: 220px;
+  }
+}
+
+@media (max-width: 768px) {
+  .large-post {
+    width: 100%;
+    margin-bottom: 1.5rem;
+  }
+  
+  .small-post {
+    width: calc(50% - 0.75rem);
+  }
+  
+  .large-row {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .small-post {
+    width: 100%;
+  }
+  
+  .small-row {
+    flex-direction: column;
+  }
+} 

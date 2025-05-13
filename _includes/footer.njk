@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-content">
+      <div class="footer-info">
+        <p>&copy; {% year %} {{ site.title }}</p>
+        {% if site.footer.text %}
+          <p>{{ site.footer.text }}</p>
+        {% endif %}
+      </div>
+      
+      {% if site.footer.links %}
+        <div class="footer-links">
+          <ul>
+            {% for link in site.footer.links %}
+              <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</footer> 

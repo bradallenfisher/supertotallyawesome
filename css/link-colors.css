@@ -1,0 +1,75 @@
+/* Global link styling */
+a {
+    color: #007bff !important;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  a:hover {
+    color: #000000 !important;
+  }
+  
+  /* Specific styles for tag links that need white text on hover */
+  .tag-link:hover {
+    color: white !important;
+  }
+  
+  /* Post card links */
+  .post-card a, 
+  .tag-card a {
+    color: #007bff !important;
+  }
+  
+  .post-card a:hover,
+  .tag-card a:hover {
+    color: #000000 !important;
+  }
+  
+  /* Post tag styling */
+  .post-tag {
+    color: #007bff !important;
+    transition: color 0.2s ease, background-color 0.2s ease;
+  }
+  
+  .post-tag:hover {
+    background-color: #ddd;
+    color: #000000 !important;
+  }
+  
+  /* Site header links */
+  .site-header a {
+    color: #007bff !important;
+  }
+  
+  .site-header a:hover {
+    color: #000000 !important;
+  }
+  
+  /* Site footer links */
+  .site-footer a {
+    color: #007bff !important;
+  }
+  
+  .site-footer a:hover {
+    color: #000000 !important;
+  }
+  
+  /* Back link */
+  .back-link {
+    color: #007bff !important;
+  }
+  
+  .back-link:hover {
+    color: #000000 !important;
+  }
+  
+  /* Improve contrast for tags on tag pages */
+  .tag-cloud .tag-link {
+    background-color: #e9e9e9;
+    color: #007bff !important;
+  }
+  
+  .tag-cloud .tag-link:hover {
+    background-color: #007bff;
+    color: white !important;
+  }

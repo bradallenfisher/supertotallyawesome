@@ -152,8 +152,6 @@ table, th, td {
 
 /* Tag Menu Styling */
 .tag-menu {
-  margin: 2rem 0;
-  padding: 1rem;
   background-color: #f8f8f8;
   border-radius: 8px;
 }

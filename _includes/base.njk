@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.language }}">
+<html lang="{{ site.language }}" class="{% if page.url == '/' %}homepage-html{% endif %}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,14 +10,27 @@
     {% endif %}
     <title>{{ title or site.title }}</title>
 
-    <link rel="stylesheet" href="/css/css.css"> 
     {% if page.url == '/' %}
-        <script>
-            if(location.hash) window.location = `/admin/#${location.href.split("#").pop()}`
-        </script>
+    <link rel="stylesheet" href="/css/reset-homepage.css">
+    {% endif %}
+    <link rel="stylesheet" href="/css/css.css">
+    <link rel="stylesheet" href="/css/header-footer.css">
+    <link rel="stylesheet" href="/css/link-colors.css">
+    {% if page.url == '/' %}
+    <link rel="stylesheet" href="/css/magazine-grid.css">
+    <link rel="stylesheet" href="/css/homepage-override.css">
+    <script>
+        if(location.hash) window.location = `/admin/#${location.href.split("#").pop()}`
+    </script>
     {% endif %}
 </head>
-<body>
-    {{ content | safe }}
+<body class="{% if page.url == '/' %}homepage{% endif %}">
+    {% include "header.njk" %}
+    
+    <div class="content-container {% if page.url == '/' %}full-width{% endif %}">
+        {{ content | safe }}
+    </div>
+    
+    {% include "footer.njk" %}
 </body>
 </html>

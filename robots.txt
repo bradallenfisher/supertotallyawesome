@@ -1,4 +1,12 @@
-Sitemap: https://www.newspeak.today/sitemap.xml
-
+# robots.txt for supertotallyawesome.com
 User-agent: *
-Disallow: 
+Allow: /
+
+# Allow access to all content
+Sitemap: https://supertotallyawesome.com/sitemap.xml
+
+# Prevent crawling of admin or development areas if they exist
+User-agent: *
+Disallow: /admin/
+Disallow: /dev/
+Disallow: /drafts/ 

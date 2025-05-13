@@ -1,18 +1,18 @@
 <header class="site-header">
   <div class="header-container">
     <div class="site-logo">
-      <a href="/">{{ site.title }}</a>
+      <a href="/" aria-label="Go to {{ site.title }} homepage">{{ site.title }}</a>
     </div>
     
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Main navigation">
       <ul>
         {% if site.navigation %}
           {% for item in site.navigation %}
-            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+            <li><a href="{{ item.url }}" aria-label="Go to {{ item.text }} page">{{ item.text }}</a></li>
           {% endfor %}
         {% else %}
-          <li><a href="/">Home</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/" aria-label="Go to homepage">Home</a></li>
+          <li><a href="/tags/" aria-label="Browse content by tags">Tags</a></li>
         {% endif %}
       </ul>
     </nav>

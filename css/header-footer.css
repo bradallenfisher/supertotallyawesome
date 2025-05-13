@@ -11,11 +11,12 @@
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: none;
-  color: #007bff;
+  color: #0056b3;
 }
 
 .site-logo a:hover {
   color: #000;
+  text-decoration: underline;
 }
 
 .site-nav ul {
@@ -31,13 +32,14 @@
 
 .site-nav a {
   text-decoration: none;
-  color: #333;
-  font-weight: 500;
+  color: #0056b3;
+  font-weight: 600;
   transition: color 0.2s;
 }
 
 .site-nav a:hover {
-  color: #007bff;
+  color: #000;
+  text-decoration: underline;
 }
 
 /* Footer Styles */
